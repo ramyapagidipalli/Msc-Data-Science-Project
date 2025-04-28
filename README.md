@@ -31,7 +31,7 @@ Tools and Libraries
 •	imbalanced-learn (for dealing with class imbalance)
 How to Run
 1.	Clone the repository:
-2.	git clone https://github.com/your-username/hospital-readmissions-prediction.git
+2.	git clone [https://github.com/your-username/hospital-readmissions-prediction.git](https://github.com/ramyapagidipalli/Msc-Data-Science-Project.git)
 3.	cd hospital-readmissions-prediction
 4.	Install required packages:
 5.	pip install -r requirements.txt
