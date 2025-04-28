@@ -40,7 +40,7 @@ How to Run
 8.	Follow the project workflow:
 o	Data Cleaning ➔ EDA ➔ Model Training ➔ Evaluation
 Results
-•	Achieved an accuracy of XX% and ROC-AUC of YY% with the best model.
+•	Achieved an accuracy of 53.2% 
 •	Identified key factors impacting readmission rates such as number of inpatient visits, discharge disposition, and diagnoses.
 Future Work
 •	Hyperparameter tuning with GridSearchCV
